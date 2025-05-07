@@ -1,1 +1,1 @@
-# Hello world
+eval "$(starship init zsh)"
