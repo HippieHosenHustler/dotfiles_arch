@@ -50,7 +50,7 @@ semantic_escape_chars = ",│`|:\"' ()[]{}<>\t"
 
 [window]
 decorations = "buttonless"
-dynamic_padding = true
+padding = { x = 15, y = 15 }
 opacity = 0.9
 
 [general]
