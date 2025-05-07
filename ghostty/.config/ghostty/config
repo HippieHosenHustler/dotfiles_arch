@@ -3,4 +3,5 @@ font-family = Hack Nerd Font
 font-size = 16
 background-opacity = 0.9
 gtk-titlebar = false
+confirm-close-surface = false
 
