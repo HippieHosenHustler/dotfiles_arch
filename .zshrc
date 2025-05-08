@@ -57,6 +57,7 @@ alias grep='rg'
 # Add Locations to $path array
 typeset -U path
 path=(
+	'/home/prayrex/.cargo/bin'
 	$path
 
 )
